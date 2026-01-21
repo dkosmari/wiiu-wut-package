@@ -1,5 +1,5 @@
 _pkgname=wut
-_branch=master
+_branch=devel
 pkgname=${_pkgname}-dkosmari-git
 conflicts=(${_pkgname})
 provides=(${_pkgname})
