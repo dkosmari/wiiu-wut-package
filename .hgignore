@@ -1,0 +1,8 @@
+syntax: glob
+
+*.zst
+*.zst.sig
+*~
+pkg
+src
+wut
