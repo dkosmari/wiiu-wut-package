@@ -1,2 +1,2 @@
 #!/bin/bash -x
-exec dkp-makepkg --force --clean --syncdeps
+exec dkp-makepkg --force --clean --cleanbuild --syncdeps
